@@ -1,4 +1,5 @@
-crewai
-crewai-tools
-python-dotenv
-streamlit
+streamlit==1.27.0
+crewai==0.7.0
+crewai-tools==0.7.0
+chromadb==0.3.30
+python-dotenv==1.0.0
