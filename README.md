@@ -50,7 +50,7 @@ Perfect for AI Engineer / Research Engineer / Agentic AI roles.
 
 📦 Installation & Setup
 # Clone repository
-git clone https://github.com/yourusername/ai-research-assistant.git
+git clone https://github.com/SamruddhiA08/ai-research-agent.git
 cd ai-research-assistant
 
 # Install dependencies
@@ -90,3 +90,4 @@ Competitive analysis
 
 Sam A. 
 Open to AI/ML research and engineering opportunities.
+
